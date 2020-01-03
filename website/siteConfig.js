@@ -161,6 +161,12 @@ const users = [
     infoLink: 'https://mindworking.eu/',
     pinned: false,
   },
+  {
+    caption: 'Réa',
+    image: '/img/logos/rea.png',
+    infoLink: 'https://rea-app.fr/',
+    pinned: false,
+  },
 ];
 
 const siteConfig = {
